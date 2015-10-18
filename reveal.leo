@@ -2004,7 +2004,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 </t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
+<t tx="amd.20150915211351.12">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;成績自評分數78分&lt;/h3&gt;
     &lt;p&gt;一開始我就從參考網址中學會了怎麼建構分支但是關於檔案怎麼傳回分支中是等老師講了才知道的，檔案改完之後發現網頁中的內容無法顯示，才發現是沒有下載模組，多虧同學的幫忙才成功更新頁，還是不太了解遠端的資料是怎麼運作的。
 &lt;/section&gt;
@@ -2038,7 +2038,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323204 張筱萱  9/29&lt;/p&gt;		
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 9/29&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2256,10 +2258,10 @@ sudo pip3 install IPython[notebook]==3.2.1
 @others
 
 </t>
-<t tx="leo.20151018173600.10">&lt;section&gt;
-      &lt;h3&gt;成績自評分數72分&lt;/h3&gt;
-    &lt;p&gt;這次作業因為完全不了解所以遲交，自己努力了解後畫出圖，但是不知道如何讓它與第一次的作業結合，對於軟體的工具使用方法還需要多了解，不知道為什麼leo檔裡面有Jupyter的連結，但我的網頁卻沒有顯示，關於這點我還需要問同學，給自己72分是因為遲交，但我自己努力做出來了
-&lt;/section&gt;
+<t tx="leo.20151018173600.10">&lt;section id="hw-task-two"&gt;
+    &lt;h3&gt;成績自評分數72分&lt;/h3&gt;
+    &lt;p&gt;這次作業因為完全不了解所以遲交，自己努力了解後畫出圖，但是不知道如何讓它與第一次的作業結合，對於軟體的工具使用方法還需要多了解，不知道為什麼leo檔裡面有Jupyter的連結，但我的網頁卻沒有顯示，關於這點我還需要問同學，給自己72分是因為遲交，但我自己努力做出來了。&lt;/p&gt; 
+    &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151018173600.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2311,21 +2313,26 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323204 張筱萱  10/28&lt;/p&gt;		
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱 &lt;/p&gt;
+    &lt;p&gt;  10/28&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151018173600.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151018173600.8">&lt;section id="hw-task-two"&gt;
     &lt;h3&gt;作業內容&lt;/h3&gt;
-    &lt;p&gt;利用solvespace軟體繪出有角度和肋的L型支架，並說明流程和方法， 如圖&lt;a href="https://copy.com/tsSH9GkMmsWfoFFj"&gt;
-    &lt;p&gt;參考 &lt;a href="http://solvespace.com/bracket.pl"&gt;TUTORIAL: DRAWING AN ANGLE BRACKET教學&lt;/a&gt;
+    &lt;p&gt;利用solvespace軟體繪出有角度和肋的L型支架，並說明流程和方法， 如圖&lt;/p&gt;
+    
+    &lt;img src="https://copy.com/e7snUmz1fauAhmoL" width="200" height="200" alt="成品圖"&gt;&lt;/img&gt;
+
+    &lt;p&gt;參考:&lt;a href="http://solvespace.com/bracket.pl"&gt;TUTORIAL: DRAWING AN ANGLE BRACKET教學&lt;/a&gt;
     &lt;/section&gt;</t>
-<t tx="leo.20151018173600.9">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151018173600.9">&lt;section id="hw-task-two"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;p&gt;1.X軸又稱為R，顏色為紅色
-    2.Y軸又稱為G，顏色為綠色
-    3.Z軸又稱為B，顏色為藍色
-    4.要畫相切圓就點兩條欲與圓相切的線，在按左邊工具列的T就好 &lt;a 
+    &lt;p&gt;1.X軸又稱為R，顏色為紅色&lt;/p&gt;
+    &lt;p&gt; 2.Y軸又稱為G，顏色為綠色&lt;/p&gt; 
+    &lt;p&gt;3.Z軸又稱為B，顏色為藍色&lt;/p&gt; 
+    &lt;p&gt;4.要畫相切圓就點兩條欲與圓相切的線，在按左邊工具列的T就好&lt;/p&gt; 
     &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
