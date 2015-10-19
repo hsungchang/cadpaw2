@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'KMOL'
+AUTHOR = '張筱萱'
 SITENAME = '2015FALL KMOL 課程'
 SITEURL = ''
 
