@@ -2333,7 +2333,7 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323204 &lt;/p&gt;
     &lt;p&gt; 張筱萱 &lt;/p&gt;
-    &lt;p&gt;  10/28&lt;/p&gt;		
+    &lt;p&gt;  9/28&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2421,8 +2421,14 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;參考:&lt;a href="https://www.copy.com/s/t%3A97ZkQ0UqfVUPTxn8%3Bp%3A%252FCollege_Student_Primer_Creo_2.pdf%3Boid%3A84"&gt;Creo Parametric 最基本的零件繪製&lt;/a&gt;
     &lt;/section&gt;</t>
 <t tx="leo.20151026114413.9">&lt;section id="hw-task-one"&gt;
-      &lt;h3&gt;成績自評分數78分&lt;/h3&gt;
-    &lt;p&gt;一開始我就從參考網址中學會了怎麼建構分支但是關於檔案怎麼傳回分支中是等老師講了才知道的，檔案改完之後發現網頁中的內容無法顯示，才發現是沒有下載模組，多虧同學的幫忙才成功更新頁，還是不太了解遠端的資料是怎麼運作的。
+      &lt;h3&gt;筆記&lt;/h3&gt;
+        &lt;p&gt;1.Tab→標籤&lt;/p&gt;
+        &lt;p&gt;2.dashboard→儀錶板&lt;/p&gt; 
+        &lt;p&gt;3.feature→認證&lt;/p&gt; 
+        &lt;p&gt;4.dragged→拖曳&lt;/p&gt; 
+        &lt;p&gt;5.creo parametric→較原始的模組，有參數的約束，早期變化性不大，有繪圖的歷程&lt;/p&gt; 
+         &lt;p&gt;6.creo direct→直接建模&lt;/p&gt; 
+         &lt;p&gt;7.creo simulate→模擬&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
