@@ -2385,8 +2385,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151026114413.4">&lt;body&gt;
-@others
+<t tx="leo.20151026114413.4">&lt;body bgcolor="green"&gt;
 &lt;/body&gt;
 </t>
 <t tx="leo.20151026114413.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
