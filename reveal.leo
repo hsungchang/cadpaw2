@@ -39,6 +39,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151018173653.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151026114351.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -285,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151018173600.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018173600.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151018173600.2"><vh>檔案說明</vh></v>
 <v t="leo.20151018173600.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151018173600.4" a="E"><vh>body 標註</vh>
@@ -301,7 +302,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -316,6 +317,21 @@
 </v>
 </v>
 </v>
+<v t="leo.20151026114413.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151026114413.2"><vh>檔案說明</vh></v>
+<v t="leo.20151026114413.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151026114413.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151026114413.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151026114413.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151026114413.7"><vh>封面</vh></v>
+<v t="leo.20151026114413.8"><vh>第一頁</vh></v>
+<v t="leo.20151026114413.9"><vh>第二頁</vh></v>
+</v>
+</v>
+<v t="leo.20151026114413.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
@@ -323,7 +339,7 @@
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
 <v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
@@ -2334,5 +2350,76 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;3.Z軸又稱為B，顏色為藍色&lt;/p&gt; 
     &lt;p&gt;4.要畫相切圓就點兩條欲與圓相切的線，在按左邊工具列的T就好&lt;/p&gt; 
     &lt;/section&gt;</t>
+<t tx="leo.20151026114413.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151026114413.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151026114413.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151026114413.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151026114413.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151026114413.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151026114413.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151026114413.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 9/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151026114413.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;p&gt;利用git branch和git checkout做出倉儲分支，並在分支中的檔案進行更改後回傳，更改leo檔中的投影片區塊(有關我的任務、作業任務一、第三張投影片)，改完後確認近端網頁中的投影片是否有更新，接下來git commit -m "40323204"再來git push origin gh-pages(倉儲分支名稱)推回遠端，若push成功後網頁沒有東西要用指令pip install pelican Markdown下載模組&lt;/p&gt;
+    &lt;p&gt;參考 &lt;a href="https://kingofamani.gitbooks.io/git-teach/content/chapter_3_branch/git.html"&gt;github 分支教學&lt;/a&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20151026114413.9">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數78分&lt;/h3&gt;
+    &lt;p&gt;一開始我就從參考網址中學會了怎麼建構分支但是關於檔案怎麼傳回分支中是等老師講了才知道的，檔案改完之後發現網頁中的內容無法顯示，才發現是沒有下載模組，多虧同學的幫忙才成功更新頁，還是不太了解遠端的資料是怎麼運作的。
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
