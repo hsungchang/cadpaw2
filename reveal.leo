@@ -2433,7 +2433,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 				
 </t>
 <t tx="leo.20151026201817.1">&lt;section id="hw-task-one"&gt;
-      &lt;h3&gt;成績自評分數78分&lt;/h3&gt;
+      &lt;h3&gt;成績自評分數76分&lt;/h3&gt;
     &lt;p&gt;這次有點遲交了，關於Creo自己畫過之後覺得跟其他繪圖軟體差不多，沒有很難，這次不只研究了Creo，對於網頁的寫法也研究了不少，改了文字的顏色等等....，成功改了之後覺得很新奇而且開心，對於我沒碰過的東西多了這麼多知識，覺得這堂課真是獲益良多。
 &lt;/section&gt;
 				
