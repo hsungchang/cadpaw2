@@ -6,8 +6,8 @@
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;關於方塊尺寸解說&lt;/h1&gt;
-&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;
-
+&lt;p&gt;&lt;p&gt;
+&lt;hr size="10"align="center"noshade width="90%"color="0000ff"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;1.為邊長 30的正方體&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/yVqdmrT7mgW93A6V" width="400" height="200" alt="方圖"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/2QYzHVqBdu2iCfZT" width="400" height="200" alt="立圖"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;&lt;img src="https://copy.com/PPSIUKDnAAosVHZH" width="200" height="200" alt="弧圖"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="Arial" color="#cc33ff" size="5"&gt;6.倒角為0.5&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/MbtbT4r1HaywU17v" width="200" height="200" alt="倒角圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/wXjiLZelLOFKHP6Y" width="200" height="200" alt="倒角圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-18T15:41:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/wXjiLZelLOFKHP6Y" width="200" height="200" alt="倒角圖"&gt;&lt;/img&gt;&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADP 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-18T15:41:00+08:00</updated><author><name>40323204</name></author><id>tag:coursemdetw.github.io,2015-10-18:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
 &lt;p&gt;完成 &lt;a href="http://solvespace.com/index.pl"&gt;Solvespace&lt;/a&gt; ( &lt;a href="http://solvespace.com/ref.pl"&gt;Reference Manual&lt;/a&gt;) 所提供的 Tutorial, 學會使用基本操作&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
