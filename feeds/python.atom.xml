@@ -10,7 +10,7 @@
 &lt;h1&gt;關於繪圖流程影片&lt;/h1&gt;
 &lt;hr size="20"align="center"noshade width="90%"color="0000ff"&gt;
 
-&lt;iframe src="https://vimeo.com/143757794" width="500" height="300" frameborder="0" &gt;&lt;/iframe&gt;
+&lt;iframe src="https://vimeo.com/143757794" width="500" height="300" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen &gt;&lt;/iframe&gt;
 
 &lt;h1&gt;關於方塊尺寸解說&lt;/h1&gt;
 &lt;p&gt;
