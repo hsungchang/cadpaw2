@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -41,6 +41,8 @@
 <v t="leo.20151018173653.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151026114351.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151116110314.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151116112425.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151116112440.1"><vh>@edit 2015cphww1~8.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -334,7 +336,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116110329.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151116110329.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151116110329.2"><vh>檔案說明</vh></v>
 <v t="leo.20151116110329.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151116110329.4" a="E"><vh>body 標註</vh>
@@ -347,6 +349,38 @@
 </v>
 </v>
 <v t="leo.20151116110329.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116112348.1" a="E"><vh>@clean simplest5.html</vh>
+<v t="leo.20151116112348.2"><vh>檔案說明</vh></v>
+<v t="leo.20151116112348.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151116112348.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151116112348.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151116112348.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151116112348.7"><vh>封面</vh></v>
+<v t="leo.20151116112348.8"><vh>第一頁</vh></v>
+<v t="leo.20151116112348.9"><vh>第二頁</vh></v>
+<v t="leo.20151116112348.10"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151116112348.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151116112358.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="leo.20151116112358.2"><vh>檔案說明</vh></v>
+<v t="leo.20151116112358.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151116112358.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151116112358.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151116112358.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151116112358.7"><vh>封面</vh></v>
+<v t="leo.20151116112358.8"><vh>第一頁</vh></v>
+<v t="leo.20151116112358.9"><vh>第二頁</vh></v>
+<v t="leo.20151116112358.10"><vh>第三頁</vh></v>
+</v>
+</v>
+<v t="leo.20151116112358.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2528,6 +2562,166 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;叮嚀:必須先加入為協同者後, 在 user 目錄下, 以學號新增目錄, 然後從 9999 目錄中複製內容, 並加入各週作業內容&lt;/p&gt;
     &lt;/section&gt;</t>
 <t tx="leo.20151116110329.9">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;1.複製9999的檔案&lt;/p&gt;
+&lt;p&gt;2.要將網頁裡的9999改成自己的學號&lt;/p&gt; 
+&lt;p&gt;3.要在資料夾中的user裡面新增一個資料夾，名稱為自己的學號&lt;/p&gt; 
+&lt;p&gt;4.將原本自己Leo檔裡的投影片及網誌拉進相對應的位置&lt;/p&gt; 
+&lt;p&gt;5.小心複製的東西跑到分頁&lt;/p&gt; 
+&lt;p&gt;6.改好後存檔點自己的學號按下user-pelican&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116112348.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116112348.10">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數75分&lt;/h3&gt;
+    &lt;p&gt;因為時間的關係只能量出尺寸，還沒畫出零件，測量的尺寸只有大概，待開始繪圖後再慢慢補上不夠的尺寸，許多零件繪製上都有困難，我會好好努力將腳踏車組出來的。
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116112348.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151116112348.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151116112348.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151116112348.4">&lt;body bgcolor="green"&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116112348.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151116112348.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151116112348.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;body bgcolor="green"&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 11/16&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151116112348.8">&lt;section id="hw-task-one"&gt;
+   &lt;h3&gt;作業內容&lt;/h3&gt;
+      &lt;p&gt;利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;/p&gt;
+      
+    &lt;/section&gt;</t>
+<t tx="leo.20151116112348.9">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;筆記&lt;/h3&gt;
+&lt;p&gt;我們選擇把腳踏車拍照，並測量尺寸直接將尺寸寫在照片上，之後再慢慢把零件畫出來。&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116112358.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151116112358.10">&lt;section id="hw-task-one"&gt;
+      &lt;h3&gt;成績自評分數80分&lt;/h3&gt;
+    &lt;p&gt;本來還搞不太清楚要怎麼用，以為是要在新增一個github倉儲，從裡面改完後再連到班上的協同網頁，問了同學之後發現很簡單，只要把自己原本的東西複製到班上協同的Leo裡面就好，之前做好回傳成功之後，班上有人將Leo用壞，雖然修好了但我在Leo裡面的節點不見了，導致我要改東西還要重新複製，我搞不懂的是Leo不見了但user裡面的檔案卻還在，不知道它是怎麼運作的呢!
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116112358.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151116112358.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151116112358.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151116112358.4">&lt;body bgcolor="green"&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20151116112358.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151116112358.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151116112358.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;body bgcolor="green"&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;p&gt;40323204 &lt;/p&gt;
+    &lt;p&gt; 張筱萱  &lt;/p&gt;
+    &lt;p&gt; 11/16&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151116112358.8">&lt;section id="hw-task-one"&gt;
+   &lt;h3&gt;作業內容&lt;/h3&gt;
+      &lt;p&gt;將前面8週的心得及作業整理出來&lt;/p&gt;
+      
+    &lt;/section&gt;</t>
+<t tx="leo.20151116112358.9">&lt;section id="hw-task-one"&gt;
       &lt;h3&gt;筆記&lt;/h3&gt;
 &lt;p&gt;1.複製9999的檔案&lt;/p&gt;
 &lt;p&gt;2.要將網頁裡的9999改成自己的學號&lt;/p&gt; 
